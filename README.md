@@ -69,24 +69,24 @@ I am a high-achieving **Senior Data Science Student** at **United International 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<p align="center">
+  <a href="https://github.com/Musfique-Ahmed">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Musfique's Stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Musfique-Ahmed&theme=radical" />
-    <img src="https://streak-stats.demolab.com?user=Musfique-Ahmed&theme=radical" alt="GitHub Streak" height="165" />
-  </picture>
-</div>
+  </a>
+  <a href="https://github.com/Musfique-Ahmed">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Musfique-Ahmed&theme=radical" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Musfique-Ahmed&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/Musfique-Ahmed">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Musfique-Ahmed&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musfique-Ahmed&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
+</p>
 
 ---
 
