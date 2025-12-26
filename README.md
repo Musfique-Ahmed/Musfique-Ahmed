@@ -70,8 +70,14 @@ I am a high-achieving **Senior Data Science Student** at **United International 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Musfique's Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Musfique-Ahmed&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Musfique's Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Musfique-Ahmed&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=Musfique-Ahmed&theme=radical" alt="GitHub Streak" height="165" />
+  </picture>
 </div>
 
 <div align="center">
