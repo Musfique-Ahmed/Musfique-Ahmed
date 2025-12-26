@@ -147,7 +147,7 @@ I am a high-achieving **Senior Data Science Student** at **United International 
   <a href="mailto:anikmushfik@gmail.com">
     <img src="https://img.shields.io/badge/📧_anikmushfik@gmail.com-D14836?style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/musfique-ahmed">
+  <a href="https://www.linkedin.com/in/musfique-ahmed-ds/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge" />
   </a>
 </p>
