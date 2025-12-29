@@ -34,7 +34,7 @@ I am a high-achieving **Senior Data Science Student** at **United International 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 **Currently Learning:** Deep Learning and Advanced AI Architectures
-- 🔭 **Current Project:** Monkeypox Prediction Application
+- 🔭 **Current Project:** Traffic Management System
 - 🏆 **100% Merit Scholarship** Recipient at UIU
 - 🏛️ **Founder & President** of the UIU Data Science Club
 - 📝 **Published Researcher:** Sentiment Analysis for Banglish Text *(ICCIT 2024)*
