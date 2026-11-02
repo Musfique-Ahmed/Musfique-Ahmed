@@ -8,6 +8,12 @@
 
 <br>
 
+<a href="https://komarev.com/ghpvc/?username=Musfique-Ahmed"><img src="https://komarev.com/ghpvc/?username=Musfique-Ahmed&style=flat-square&color=00D2FF" alt="Profile views" /></a>
+<a href="https://github.com/Musfique-Ahmed?tab=followers"><img src="https://img.shields.io/github/followers/Musfique-Ahmed?label=Followers&style=flat-square&color=00D2FF" alt="Followers" /></a>
+<a href="https://github.com/Musfique-Ahmed"><img src="https://img.shields.io/github/stars/Musfique-Ahmed?label=Stars&style=flat-square&color=00D2FF" alt="Stars" /></a>
+
+<br>
+
 <a href="https://musfique-ahmed.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-musfique--ahmed.github.io-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/musfique-ahmed-ds/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Musfique-Ahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -208,19 +214,19 @@ Check out my **[full portfolio](https://musfique-ahmed.github.io/portfolio/)** f
 
 <p align="center">
   <a href="https://github.com/Musfique-Ahmed">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Musfique's Stats" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Musfique-Ahmed&show_icons=true&theme=radical&include_all_commits=true" alt="Musfique's Stats" height="165" />
   </a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Musfique-Ahmed&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Musfique-Ahmed">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Musfique-Ahmed&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Musfique-Ahmed&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musfique-Ahmed&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="assets/contribution-graph.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
